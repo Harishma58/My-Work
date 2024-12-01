@@ -122,7 +122,7 @@
   border: none;
   height: 40px;
   width: 100%;
-outline: none;
+  outline: none;
   margin-bottom: 50px;
   padding-left: 10px;
   font-size: 20px;
@@ -149,11 +149,9 @@ outline: none;
   justify-content: center;
   align-items: center;
   padding: 100px;
-
 }
 .no-jobs-img {
   width: 500px;
-   
 }
 .s-bar {
   display: flex;
